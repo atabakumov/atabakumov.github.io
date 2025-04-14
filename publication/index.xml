@@ -5,12 +5,64 @@
     <link>https://atabakumov.github.io/publication/</link>
       <atom:link href="https://atabakumov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://atabakumov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
       <link>https://atabakumov.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://atabakumov.github.io/publication/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/publication/04/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Языки научного программирования: зачем их так много и как выбрать свой&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В мире научных вычислений выбор языка программирования — это как выбор инструмента для эксперимента. Он не просто определяет, как ты напишешь код, а влияет на точность, скорость и сам подход к решению задач. За последнее время я немного покопался в этой теме и вот к каким выводам пришёл.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-fortran--вечная-классика&#34;&gt;&lt;strong&gt;1. Fortran — вечная классика&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Fortran — старейший из живущих языков, разработан в 1950-х. И несмотря на возраст, до сих пор используется в задачах вычислительной физики, численного моделирования и гидродинамики. Почему? Потому что он:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;невероятно быстр на операциях с массивами и числами с плавающей точкой;&lt;/li&gt;
+&lt;li&gt;отлично распараллеливается;&lt;/li&gt;
+&lt;li&gt;поддерживается в большинстве научных библиотек, особенно в старых.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Но учить его с нуля — дело спорное. Скорее, стоит знать о нём и уметь читать код, особенно если работать с &amp;ldquo;наследием&amp;rdquo;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-python--универсальный-солдат&#34;&gt;&lt;strong&gt;2. Python — универсальный солдат&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Python — любимец научного сообщества. Его плюсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;простота синтаксиса;&lt;/li&gt;
+&lt;li&gt;богатейшая экосистема (&lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;SymPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;, &lt;code&gt;Jupyter&lt;/code&gt;);&lt;/li&gt;
+&lt;li&gt;легко соединяется с C/C++ и Fortran через &lt;code&gt;ctypes&lt;/code&gt;, &lt;code&gt;cython&lt;/code&gt;, &lt;code&gt;f2py&lt;/code&gt; и другие мосты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Но важно понимать: Python — это не про скорость. Он медленный. Зато его удобно использовать как «склеивающий» язык, который организует весь научный процесс.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-c-и-c--точность-и-контроль&#34;&gt;&lt;strong&gt;3. C и C++ — точность и контроль&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Когда нужен полный контроль над вычислениями и памятью, обращаются к C или C++. Особенно C++ стал популярен с появлением таких библиотек, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Eigen&lt;/code&gt; — для линейной алгебры;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Armadillo&lt;/code&gt;, &lt;code&gt;Boost&lt;/code&gt;, &lt;code&gt;Blitz++&lt;/code&gt; — для численных расчётов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C++ требует больше времени на освоение, но даёт возможность создавать очень эффективные численные симуляции.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4-julia--новичок-с-амбициями&#34;&gt;&lt;strong&gt;4. Julia — новичок с амбициями&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Julia появилась сравнительно недавно, но активно набирает популярность. Её ключевые идеи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;как Python по синтаксису, как C по скорости;&lt;/li&gt;
+&lt;li&gt;умеет JIT-компиляцию (через LLVM);&lt;/li&gt;
+&lt;li&gt;поддерживает векторизацию, распараллеливание и работу с GPU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Она ещё не стала стандартом, но в некоторых задачах (например, оптимизация, моделирование) уже показывает себя лучше традиционных языков.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5-matlab-и-r--специализированные-решения&#34;&gt;&lt;strong&gt;5. MATLAB и R — специализированные решения&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;MATLAB хорош в обработке сигналов, моделировании, графике, но платный. R — для статистики и анализа данных. В физмате они встречаются реже, но стоит о них помнить.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;что-в-итоге&#34;&gt;&lt;strong&gt;Что в итоге?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Универсального языка нет. И, возможно, не будет. Но понимать, когда и зачем использовать тот или иной — вот это важно. Пока что для учёбы и первых численных экспериментов мне хватает Python, а дальше, по мере задач, вполне может пригодиться C++ или даже Fortran.&lt;/p&gt;
+&lt;p&gt;Код — такой же инструмент, как линейка или телескоп. Главное — знать, как им правильно пользоваться.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Как написать отчёт</title>

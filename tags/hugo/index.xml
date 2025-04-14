@@ -5,7 +5,7 @@
     <link>https://atabakumov.github.io/tags/hugo/</link>
       <atom:link href="https://atabakumov.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://atabakumov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://atabakumov.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://atabakumov.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://atabakumov.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Зачем научному сотруднику сайт на Hugo Academic</title>
+      <link>https://atabakumov.github.io/project/hugo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;В мире, где цифровое присутствие стало таким же важным, как публикации в рецензируемых журналах, персональный сайт — это не роскошь, а необходимость. И если вы — научный сотрудник, преподаватель или аспирант, Hugo Academic — одно из самых удачных решений для запуска своего сайта.&lt;/p&gt;
+&lt;h2 id=&#34;hugo-academic--не-просто-шаблон&#34;&gt;Hugo Academic — не просто шаблон&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это интеллектуальный шаблон для &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, заточенный под нужды научного сообщества. Он создан не для маркетологов или блогеров, а для людей, работающих с данными, публикациями, грантами и аудиторией. Здесь всё подчинено задаче: чётко, лаконично, по делу.&lt;/p&gt;
+&lt;p&gt;Сайт на этой платформе позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;собрать воедино публикации, тезисы, проекты и курсы;&lt;/li&gt;
+&lt;li&gt;презентовать себя как исследователя без излишней помпезности;&lt;/li&gt;
+&lt;li&gt;синхронизировать научную активность с ORCID, Google Scholar и BibTeX;&lt;/li&gt;
+&lt;li&gt;поддерживать блог или ленту новостей, если есть что сказать миру.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;минимум-шума-максимум-пользы&#34;&gt;Минимум шума, максимум пользы&lt;/h2&gt;
+&lt;p&gt;Academic — это не вычурный дизайн, не обилие анимаций и не миллионы настроек. Он про структуру. Про содержание. Про то, чтобы ваш сайт не отвлекал, а направлял. Посетителю достаточно пары кликов, чтобы найти вашу статью, проект или контакт.&lt;/p&gt;
+&lt;p&gt;Кроме того, сайт полностью адаптивен: отлично смотрится и на смартфоне, и на большом экране. А благодаря статической генерации он работает быстро и безопасно.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-работает&#34;&gt;Почему это работает&lt;/h2&gt;
+&lt;p&gt;У учёного нет лишнего времени. Но зато есть масса поводов рассказать о себе: новая публикация, участие в конференции, запуск курса, защита гранта. Иметь платформу, где всё это собрано, — удобно. Особенно если она проста в управлении и расширяема.&lt;/p&gt;
+&lt;p&gt;К тому же, Hugo Academic — проект с открытым кодом. Это означает свободу: от хостинга до внешнего вида, от структуры страниц до языка интерфейса.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Если вы давно откладывали создание персонального научного сайта — Hugo Academic даст возможность сделать это быстро, без боли и с отличным результатом. Это не просто визитка, а рабочий инструмент: для демонстрации достижений, общения с коллегами и построения академического имиджа.&lt;/p&gt;
+&lt;p&gt;В 21 веке у каждого исследователя должно быть своё место в сети. Hugo Academic — отличное начало.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

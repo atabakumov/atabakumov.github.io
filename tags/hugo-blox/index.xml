@@ -5,12 +5,29 @@
     <link>https://atabakumov.github.io/tags/hugo-blox/</link>
       <atom:link href="https://atabakumov.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://atabakumov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://atabakumov.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://atabakumov.github.io/post/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/post/04/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Итоги недели:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Закрыл все задания по линейной алгебре. Начал решать задачи не только по формуле, но и на понимание структуры пространства — это кайф.&lt;/li&gt;
+&lt;li&gt;На семинаре по математическому анализу удалось наконец-то полноценно разобраться с понятием равномерной сходимости. Оказалось, не так страшно, как звучит.&lt;/li&gt;
+&lt;li&gt;Получилось написать символьный разбор одного интеграла в Python — использовал &lt;code&gt;sympy&lt;/code&gt;. Начинает вырисовываться связь между кодом и аналитикой.&lt;/li&gt;
+&lt;li&gt;Прочитал главу из книжки по логике высказываний — немного формализма в выходные никогда не помешает.&lt;/li&gt;
+&lt;li&gt;Из внезапного: узнал, что матричные вычисления на C++ с использованием &lt;code&gt;Eigen&lt;/code&gt; не так уж и сложны, если сесть с примерами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;На следующей неделе хочу плотнее заняться задачами из практикума по дифференциальным уравнениям — в них начинается самое интересное.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

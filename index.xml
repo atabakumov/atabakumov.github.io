@@ -34,6 +34,102 @@
     </item>
     
     <item>
+      <title>Зачем научному сотруднику сайт на Hugo Academic</title>
+      <link>https://atabakumov.github.io/project/hugo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;В мире, где цифровое присутствие стало таким же важным, как публикации в рецензируемых журналах, персональный сайт — это не роскошь, а необходимость. И если вы — научный сотрудник, преподаватель или аспирант, Hugo Academic — одно из самых удачных решений для запуска своего сайта.&lt;/p&gt;
+&lt;h2 id=&#34;hugo-academic--не-просто-шаблон&#34;&gt;Hugo Academic — не просто шаблон&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это интеллектуальный шаблон для &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, заточенный под нужды научного сообщества. Он создан не для маркетологов или блогеров, а для людей, работающих с данными, публикациями, грантами и аудиторией. Здесь всё подчинено задаче: чётко, лаконично, по делу.&lt;/p&gt;
+&lt;p&gt;Сайт на этой платформе позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;собрать воедино публикации, тезисы, проекты и курсы;&lt;/li&gt;
+&lt;li&gt;презентовать себя как исследователя без излишней помпезности;&lt;/li&gt;
+&lt;li&gt;синхронизировать научную активность с ORCID, Google Scholar и BibTeX;&lt;/li&gt;
+&lt;li&gt;поддерживать блог или ленту новостей, если есть что сказать миру.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;минимум-шума-максимум-пользы&#34;&gt;Минимум шума, максимум пользы&lt;/h2&gt;
+&lt;p&gt;Academic — это не вычурный дизайн, не обилие анимаций и не миллионы настроек. Он про структуру. Про содержание. Про то, чтобы ваш сайт не отвлекал, а направлял. Посетителю достаточно пары кликов, чтобы найти вашу статью, проект или контакт.&lt;/p&gt;
+&lt;p&gt;Кроме того, сайт полностью адаптивен: отлично смотрится и на смартфоне, и на большом экране. А благодаря статической генерации он работает быстро и безопасно.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-работает&#34;&gt;Почему это работает&lt;/h2&gt;
+&lt;p&gt;У учёного нет лишнего времени. Но зато есть масса поводов рассказать о себе: новая публикация, участие в конференции, запуск курса, защита гранта. Иметь платформу, где всё это собрано, — удобно. Особенно если она проста в управлении и расширяема.&lt;/p&gt;
+&lt;p&gt;К тому же, Hugo Academic — проект с открытым кодом. Это означает свободу: от хостинга до внешнего вида, от структуры страниц до языка интерфейса.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Если вы давно откладывали создание персонального научного сайта — Hugo Academic даст возможность сделать это быстро, без боли и с отличным результатом. Это не просто визитка, а рабочий инструмент: для демонстрации достижений, общения с коллегами и построения академического имиджа.&lt;/p&gt;
+&lt;p&gt;В 21 веке у каждого исследователя должно быть своё место в сети. Hugo Academic — отличное начало.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://atabakumov.github.io/post/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/post/04/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Итоги недели:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Закрыл все задания по линейной алгебре. Начал решать задачи не только по формуле, но и на понимание структуры пространства — это кайф.&lt;/li&gt;
+&lt;li&gt;На семинаре по математическому анализу удалось наконец-то полноценно разобраться с понятием равномерной сходимости. Оказалось, не так страшно, как звучит.&lt;/li&gt;
+&lt;li&gt;Получилось написать символьный разбор одного интеграла в Python — использовал &lt;code&gt;sympy&lt;/code&gt;. Начинает вырисовываться связь между кодом и аналитикой.&lt;/li&gt;
+&lt;li&gt;Прочитал главу из книжки по логике высказываний — немного формализма в выходные никогда не помешает.&lt;/li&gt;
+&lt;li&gt;Из внезапного: узнал, что матричные вычисления на C++ с использованием &lt;code&gt;Eigen&lt;/code&gt; не так уж и сложны, если сесть с примерами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;На следующей неделе хочу плотнее заняться задачами из практикума по дифференциальным уравнениям — в них начинается самое интересное.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://atabakumov.github.io/publication/04/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://atabakumov.github.io/publication/04/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Языки научного программирования: зачем их так много и как выбрать свой&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В мире научных вычислений выбор языка программирования — это как выбор инструмента для эксперимента. Он не просто определяет, как ты напишешь код, а влияет на точность, скорость и сам подход к решению задач. За последнее время я немного покопался в этой теме и вот к каким выводам пришёл.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-fortran--вечная-классика&#34;&gt;&lt;strong&gt;1. Fortran — вечная классика&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Fortran — старейший из живущих языков, разработан в 1950-х. И несмотря на возраст, до сих пор используется в задачах вычислительной физики, численного моделирования и гидродинамики. Почему? Потому что он:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;невероятно быстр на операциях с массивами и числами с плавающей точкой;&lt;/li&gt;
+&lt;li&gt;отлично распараллеливается;&lt;/li&gt;
+&lt;li&gt;поддерживается в большинстве научных библиотек, особенно в старых.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Но учить его с нуля — дело спорное. Скорее, стоит знать о нём и уметь читать код, особенно если работать с &amp;ldquo;наследием&amp;rdquo;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-python--универсальный-солдат&#34;&gt;&lt;strong&gt;2. Python — универсальный солдат&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Python — любимец научного сообщества. Его плюсы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;простота синтаксиса;&lt;/li&gt;
+&lt;li&gt;богатейшая экосистема (&lt;code&gt;NumPy&lt;/code&gt;, &lt;code&gt;SciPy&lt;/code&gt;, &lt;code&gt;SymPy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt;, &lt;code&gt;Matplotlib&lt;/code&gt;, &lt;code&gt;Jupyter&lt;/code&gt;);&lt;/li&gt;
+&lt;li&gt;легко соединяется с C/C++ и Fortran через &lt;code&gt;ctypes&lt;/code&gt;, &lt;code&gt;cython&lt;/code&gt;, &lt;code&gt;f2py&lt;/code&gt; и другие мосты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Но важно понимать: Python — это не про скорость. Он медленный. Зато его удобно использовать как «склеивающий» язык, который организует весь научный процесс.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-c-и-c--точность-и-контроль&#34;&gt;&lt;strong&gt;3. C и C++ — точность и контроль&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Когда нужен полный контроль над вычислениями и памятью, обращаются к C или C++. Особенно C++ стал популярен с появлением таких библиотек, как:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Eigen&lt;/code&gt; — для линейной алгебры;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Armadillo&lt;/code&gt;, &lt;code&gt;Boost&lt;/code&gt;, &lt;code&gt;Blitz++&lt;/code&gt; — для численных расчётов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C++ требует больше времени на освоение, но даёт возможность создавать очень эффективные численные симуляции.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4-julia--новичок-с-амбициями&#34;&gt;&lt;strong&gt;4. Julia — новичок с амбициями&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Julia появилась сравнительно недавно, но активно набирает популярность. Её ключевые идеи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;как Python по синтаксису, как C по скорости;&lt;/li&gt;
+&lt;li&gt;умеет JIT-компиляцию (через LLVM);&lt;/li&gt;
+&lt;li&gt;поддерживает векторизацию, распараллеливание и работу с GPU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Она ещё не стала стандартом, но в некоторых задачах (например, оптимизация, моделирование) уже показывает себя лучше традиционных языков.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5-matlab-и-r--специализированные-решения&#34;&gt;&lt;strong&gt;5. MATLAB и R — специализированные решения&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;MATLAB хорош в обработке сигналов, моделировании, графике, но платный. R — для статистики и анализа данных. В физмате они встречаются реже, но стоит о них помнить.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;что-в-итоге&#34;&gt;&lt;strong&gt;Что в итоге?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Универсального языка нет. И, возможно, не будет. Но понимать, когда и зачем использовать тот или иной — вот это важно. Пока что для учёбы и первых численных экспериментов мне хватает Python, а дальше, по мере задач, вполне может пригодиться C++ или даже Fortran.&lt;/p&gt;
+&lt;p&gt;Код — такой же инструмент, как линейка или телескоп. Главное — знать, как им правильно пользоваться.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как написать отчёт</title>
       <link>https://atabakumov.github.io/publication/03/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
@@ -220,30 +316,6 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://atabakumov.github.io/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://atabakumov.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://atabakumov.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://atabakumov.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://atabakumov.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
